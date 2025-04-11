@@ -93,8 +93,8 @@ This modular Sticky Notes Web Application, built with Python, illustrates best p
          │
          │
          ├── templates/               # Global templates folder
-         │ ├── base.html              # Base HTML template
-         │ └── ...
+         │  ├── base.html             # Base HTML template
+         │  └── ...
          │
          └── static/                  # (Optional) Glob. static files (e.g., CSS, JavaScript, images)
             ├── css/
